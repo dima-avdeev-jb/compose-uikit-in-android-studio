@@ -5,7 +5,9 @@ struct ContentView: View {
 	let greet = Greeting().greeting()
 
 	var body: some View {
-		Text(greet)
+		UIKitViewControllerToSwiftUI {
+            print("do nothing")
+        }
 	}
 }
 
