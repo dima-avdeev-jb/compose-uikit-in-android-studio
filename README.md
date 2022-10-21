@@ -5,4 +5,4 @@
 
 ### Problems:
  - Adding Swift files with Xcode
- - 
+ - Real device only with configuration in Xcode
